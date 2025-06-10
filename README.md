@@ -20,8 +20,8 @@
 ## 🧪 Как запустить проект
 
 ```bash
-git clone https://github.com/kagor4/Purchase-Prediction.git
-cd Purchase-Prediction
+git clone https://github.com/kagor4/Purchase-Prediction-for-Online-Store.git
+cd Purchase-Prediction-for-Online-Store
 pip install -r requirements.txt
 ```
 
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ```
 📦 Purchase-Prediction/
-├── project_marketing.py  # анализ и обучение модели
+├── project_marketing.ipynb   # анализ и обучение модели
 ├── requirements.txt          # зависимости
 └── README.md                 # описание проекта
 ```
@@ -89,4 +89,5 @@ pip install -r requirements.txt
 
 ## © Автор
 
-Автор: [kagor4](https://github.com/kagor4) 
+Автор: [kagor4](https://github.com/kagor4)  
+Свяжитесь со мной: [@egor_kagor](https://t.me/egor_kagor)
